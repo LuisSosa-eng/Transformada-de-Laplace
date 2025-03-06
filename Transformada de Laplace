@@ -1,2 +1,19 @@
-##Transformada de Laplace
-Se representa como el cambio de espacio geometrico del domino del tiempo al dominio de la frecuencia
+# Transformada de Laplace
+
+Este repositorio contiene ejemplos y recursos sobre la **Transformada de Laplace**, una herramienta fundamental en la ingeniería y las matemáticas para resolver ecuaciones diferenciales.
+
+## Contenido
+
+- Definición y propiedades de la Transformada de Laplace.
+- Ejemplos de funciones comunes y su Transformada de Laplace.
+- Implementaciones en Python para calcular transformadas.
+
+## Requisitos
+
+- Python 3.x
+- SymPy (librería de Python para matemáticas simbólicas)
+
+## Instalación
+
+Para instalar las dependencias necesarias, ejecuta:
+
